@@ -1,29 +1,30 @@
 # MỘT VÒNG VIỆT NAM
 # Nhạc sĩ: Đông Thiên Đức
 # Trình bày: Tùng Dương
-Ai đã ghim vào những thân tre
-Bao ký ức xót xa hỡi mẹ?
-Ai đã ru ngủ những dòng sông
-Cùng êm ả chảy về hướng đông?
+<p>Ai đã ghim vào những thân tre<br>
+Bao ký ức xót xa hỡi mẹ?<br>
+Ai đã ru ngủ những dòng sông<br>
+Cùng êm ả chảy về hướng đông?</p>
 
-Con đã vẽ hình hài quê hương
-Qua những khúc hát ru của mẹ
-Còn bao nhiêu lời ru con vẫn
-Chưa được nghe?
+<p>Con đã vẽ hình hài quê hương<br>
+Qua những khúc hát ru của mẹ<br>
+Còn bao nhiêu lời ru con vẫn<br>
+Chưa được nghe?</p>
 
-Việt Nam quê hương ta đẹp lắm
-Mặc lửa khói giày xéo tháng năm
-Người Việt Nam da nâu, mắt đen
-Thảo thơm bất khuất như cành sen
+<p>Việt Nam quê hương ta đẹp lắm<br>
+Mặc lửa khói giày xéo tháng năm<br>
+Người Việt Nam da nâu, mắt đen<br>
+Thảo thơm bất khuất như cành sen</p>
 
-Việt Nam ơi, quê hương ta ơi
-Biển lúa chín vàng thơm ngát trời
-Vọng tiếng ai hò vì nhớ con đò
-À ơi
+<p>Việt Nam ơi, quê hương ta ơi<br>
+Biển lúa chín vàng thơm ngát trời<br>
+Vọng tiếng ai hò vì nhớ con đò<br>
+À ơi</p>
 
-Dậy với tôi nào, dạo với tôi nào
-Dạo khắp một vòng Việt Nam
-Nhìn non sông trời văn, đất võ
-Cùng với tôi nào, dạo với tôi nào
-Dạo khắp một vòng Việt Nam
-Come with me, we'll travel 'round Việt Nam
+<p>Dậy với tôi nào, dạo với tôi nào<br>
+Dạo khắp một vòng Việt Nam<br>
+Nhìn non sông trời văn, đất võ<br>
+Cùng với tôi nào, dạo với tôi nào<br>
+Dạo khắp một vòng Việt Nam<br>
+Come with me, we'll travel 'round Việt Nam</p>
+
